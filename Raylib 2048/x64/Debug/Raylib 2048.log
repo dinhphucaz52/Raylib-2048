@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\PHUC\source\repos\Raylib 2048\Raylib 2048\Game.cpp(34,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PHUC\source\repos\Raylib 2048\Raylib 2048\Game.cpp(45,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Raylib 2048.vcxproj -> C:\Users\PHUC\source\repos\Raylib 2048\x64\Debug\Raylib 2048.exe
